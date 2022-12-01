@@ -47,6 +47,7 @@ body {
         color: white;
         text-align: center;
         margin-bottom: 3rem;
+        margin-top: 1.5rem;
     }
     .description {
         font-size: 21px;
@@ -61,3 +62,16 @@ body {
             height: auto;
             max-width: 896px;
         }
+
+.coming-soon {
+    text-align: center;
+    margin-top: 2rem;
+}  
+
+.trademark {
+    color: grey;
+    text-align: right;
+    padding-right: 1.2rem;
+    margin-bottom: 1rem;
+    font-size: 1.3rem;
+}
