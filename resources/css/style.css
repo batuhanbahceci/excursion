@@ -23,6 +23,7 @@ body {
     }
 .download-link {
     text-align: center;
+    margin-bottom: 2rem;
 }   .download-link a {
         display: inline;
         color: aquamarine;
@@ -31,3 +32,7 @@ body {
             color: aqua;
             transition: color 400ms linear;
         }
+
+.video-container {
+    text-align: center;
+} 
